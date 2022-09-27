@@ -119,9 +119,9 @@ body .wrapper header {
 body .wrapper header h2 {
   margin: 0;
 }
-body .wrapper .content {
-  /* div na którym osadzamy tabelkę */
-}
+body .wrapper .content 
+    /* div na którym osadzamy tabelkę */
+
 body .wrapper .content p {
   margin: 0;
   margin-bottom: 2rem;
